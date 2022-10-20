@@ -1,0 +1,15 @@
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\bin\Debug\net6.0\Karakter-Tersten-Yazdırma.exe
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\bin\Debug\net6.0\Karakter-Tersten-Yazdırma.deps.json
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\bin\Debug\net6.0\Karakter-Tersten-Yazdırma.runtimeconfig.json
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\bin\Debug\net6.0\Karakter-Tersten-Yazdırma.dll
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\bin\Debug\net6.0\Karakter-Tersten-Yazdırma.pdb
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.AssemblyInfo.cs
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.dll
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\refint\Karakter-Tersten-Yazdırma.dll
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.pdb
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.genruntimeconfig.cache
+C:\Users\gokha\Desktop\Pratikler\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\ref\Karakter-Tersten-Yazdırma.dll
